@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javaee08_06_18:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="javaee-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="javaee08_06_18:war exploded" />
+    </root>
+  </artifact>
+</component>
